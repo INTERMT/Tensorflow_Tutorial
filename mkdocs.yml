@@ -1,0 +1,31 @@
+site_name: Tensorflow入门教程
+theme: readthedocs
+
+pages:
+    - Tensorflow入门教程: index.md
+    - 深度学习发展史: develop_deep_learning.md
+    - 特征工程: feature_engineering.md
+    - 深度学习之激活函数: activation_function.md
+    - 损失函数: loss_function.md
+    - 反向传播算法【上】: backpropagation.md
+    - 反向传播算法【下】: backpropagation_1.md
+
+    - Tensorflow 介绍和安装: introduction_and_install_tensorflow.md
+    - Tensorflow基本操作: tensorflow_basic.md
+    - 卷积神经网络概述: intro_cnn.md
+    - 卷积神经网络基础操作: cnn_implication.md
+
+    - 手写数字识别数据集介绍: mnist_intro.md
+    - 卷积神经实现手写数字识别: mnist_implication.md
+    - 卷积神经网络经典模型概述: cnn_models_intro.md
+    - 卷积神经网络经典模型 LeNet: lenet.md
+
+    - 综述RNN循环神经网络: rnn_intro.md
+    - 七步带你实现RNN循环神经网络小示例: rnn_implication.md
+    - 常用RNN网络结构及依赖优化问题: rnn_models_intro.md
+    - RNN的应用及注意力模型: rnn_attention.md
+
+    - Tensorboard【上】: Tensorboard_1.md
+    - Tensorboard【下】: Tensorboard_2.md
+    - tensorflow_multi_gpu: multi_gpu.md
+    - Awesome_Tensorflow: Awesome_Tensorflow.md
